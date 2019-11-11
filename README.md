@@ -15,7 +15,7 @@ tns plugin add nativescript-cscreenshot
 
 ## Usage 
 
-Just import the plugin in your project and use ir like this
+Just import the plugin in your project and use it like this
 	
 using Typescript:
 
