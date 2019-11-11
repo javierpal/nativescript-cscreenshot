@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-cscreenshot",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Your Take a View Screenshot Nativescript Plugin!",
 	"main": "cscreenshot",
 	"typings": "index.d.ts",
