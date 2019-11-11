@@ -17,9 +17,9 @@ tns plugin add nativescript-cscreenshot
 
 Just import the plugin in your project and use ir like this
 	
-    using Typescript:
+using Typescript:
 
-	```typescript
+	```javascript
     import { Cscreenshot } from 'nativescript-cscreenshot';
     import { ImageSource } from "tns-core-modules/image-source";
 
