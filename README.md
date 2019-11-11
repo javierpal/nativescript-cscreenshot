@@ -1,6 +1,6 @@
 # Nativescript Cscreenshot :camera:
 
-This is a plugin was created so you can take video screenshots easily and then store it as you like
+This plugin was created so you can take screenshots of views easily and then store it as you like.
 
 this plugin is based on enchev's NativeScript Screenshot [nativescript-screenshot](https://github.com/enchev/nativescript-screenshot)
 but updated for better stability and angular, vue and react compatibility (still testing vue and react)
