@@ -1,4 +1,4 @@
-# nativescript-cscreenshot
+# Nativescript Cscreenshot :camera:
 
 This is a plugin was created so you can take video screenshots easily and then store it as you like
 
