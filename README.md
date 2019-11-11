@@ -19,7 +19,7 @@ Just import the plugin in your project and use ir like this
 	
 using Typescript:
 
-	```javascript
+```typescript
     import { Cscreenshot } from 'nativescript-cscreenshot';
     import { ImageSource } from "tns-core-modules/image-source";
 
@@ -36,7 +36,7 @@ using Typescript:
     screen.take(view, (image: ImageSource)=>{
         // Do whatever you want with the returned source image
     });
-    ```
+```
 
 ## License
 
