@@ -34,7 +34,10 @@
 		"NativeScript",
 		"JavaScript",
 		"Android",
-		"iOS"
+		"iOS",
+		"Nativescript Screenshot",
+		"Nativescript CScreenshot",
+		"Screenshot"
 	],
 	"author": {
 		"name": "Javierpal",

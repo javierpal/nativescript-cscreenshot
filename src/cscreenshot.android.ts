@@ -8,11 +8,12 @@ export class Cscreenshot extends Common {
     }
     take(view: ViewBase, callback: any){
         let androidView = view.android;
-        androidView.setDrawingCacheEnabled(true);
-        let bmp: android.graphics.Bitmap = android.graphics.Bitmap.createBitmap(androidView.getDrawingCache());                
-        androidView.setDrawingCacheEnabled(false);
+        let bmp: android.graphics.Bitmap = android.graphics.Bitmap.createBitmap(androidView.getWidth(), androidView.getHeight(), android.graphics.Bitmap.Config.ARGB_8888);
+        let c: android.graphics.Canvas = new android.graphics.Canvas(bmp);
+        androidView.draw(c);
         let native: ImageSource = new ImageSource();
         native.setNativeSource(bmp);
+        
         callback(native);
     }
 }
