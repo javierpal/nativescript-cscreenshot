@@ -33,9 +33,22 @@ using Typescript:
     @ViewChild("main", { static: true }) main: ElementRef;
     let view = this.view.nativeElement;
 
+    // Using Vue Nativescript
+    let view = this.$refs.main.nativeView;
+
     screen.take(view, (image: ImageSource)=>{
         // Do whatever you want with the returned source image
     });
+```
+    and in your template
+```xml
+    <!-- Assign the reference name depending on the framework -->
+    <!-- 'id=""' for vanilla nativescript -->
+    <!-- '#main' for angular nativescript -->
+    <!-- 'ref="main"' for Vue nativescript -->
+    <GridLayout id="main" #main ref="main">
+        <!-- Content of your app here -->
+    </GridLayout>
 ```
 
 ## License
