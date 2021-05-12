@@ -40,7 +40,7 @@ using Typescript:
         // Do whatever you want with the returned source image
     });
 ```
-    and in your template
+and in your template
 ```xml
     <!-- Assign the reference name depending on the framework -->
     <!-- 'id=""' for vanilla nativescript -->
