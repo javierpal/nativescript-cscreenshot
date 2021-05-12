@@ -1,6 +1,5 @@
 import { Common } from './cscreenshot.common';
-import { ViewBase } from 'tns-core-modules/ui/core/view';
-import { ImageSource } from "tns-core-modules/image-source";
+import { ViewBase, ImageSource } from '@nativescript/core';
 
 export class Cscreenshot extends Common {
     constructor(){

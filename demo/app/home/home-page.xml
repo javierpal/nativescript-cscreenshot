@@ -8,93 +8,93 @@
 
     <ScrollView>
         <StackLayout id="main" class="page">
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
-            <Label class="text-formatted" text="Hellow madafaka"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
+            <Label class="text-formatted" text="Hello World! :D"></Label>
         </StackLayout>
     </ScrollView>
 </Page>

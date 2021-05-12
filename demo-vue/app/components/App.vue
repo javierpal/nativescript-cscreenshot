@@ -10,9 +10,9 @@
 
 <script lang="ts">
   import { Cscreenshot } from 'nativescript-cscreenshot';
-  import { ImageSource } from "tns-core-modules/image-source";
-  import { knownFolders } from "tns-core-modules/file-system";
-  import * as fs from "tns-core-modules/file-system";
+  import { ImageSource } from "@nativescript/core/image-source";
+  import { knownFolders } from "@nativescript/core/file-system";
+  import * as fs from "@nativescript/core/file-system";
 
   export default {
     data() {

@@ -1,14 +1,22 @@
 {
     "compilerOptions": {
-        "target": "es5",
-        "module": "commonjs",
+        "target": "es2017",
+        "module": "esnext",
         "declaration": true,
-        "removeComments": true,
+        "removeComments": false,
         "noLib": false,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "skipLibCheck": true,
-        "lib": ["es6", "dom"],
+        "plugins": [{
+            "transform": "@nativescript/webpack/transformers/ns-transform-native-classes",
+            "type": "raw"
+        }],
+        "lib": [
+            "es6",
+            "dom",
+            "es2017"
+        ],
         "sourceMap": true,
         "pretty": true,
         "allowUnreachableCode": false,
@@ -18,7 +26,8 @@
         "noImplicitAny": false,
         "noImplicitReturns": true,
         "noImplicitUseStrict": false,
-        "noFallthroughCasesInSwitch": true
+        "noFallthroughCasesInSwitch": true,
+        "moduleResolution": "node"
     },
     "exclude": [
         "node_modules"

@@ -1,14 +1,12 @@
 import { Cscreenshot } from 'nativescript-cscreenshot';
-import { ImageSource } from "tns-core-modules/image-source";
-import { knownFolders, Folder } from "tns-core-modules/file-system";
-import * as fs from "tns-core-modules/file-system";
+import { ImageSource, knownFolders, Folder, NavigatedData, Page } from '@nativescript/core';
+import * as fs from '@nativescript/core/file-system';
 /*
 In NativeScript, a file with the same name as an XML file is known as
 a code-behind file. The code-behind is a great place to place your view
 logic, and to set up your page’s data binding.
 */
 
-import { NavigatedData, Page } from "tns-core-modules/ui/page";
 
 import { HomeViewModel } from "./home-view-model";
 

@@ -1,5 +1,4 @@
-import { Observable } from 'tns-core-modules/data/observable';
-import { ViewBase } from 'tns-core-modules/ui/core/view';
+import { Observable, ViewBase } from '@nativescript/core';
 
 export class Common extends Observable implements screenShot {
   public fileImage: File;

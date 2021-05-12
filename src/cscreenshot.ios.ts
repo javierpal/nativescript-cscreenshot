@@ -1,6 +1,5 @@
 import { Common } from './cscreenshot.common';
-import { ViewBase } from 'tns-core-modules/ui/core/view';
-import { ImageSource, fromData } from "tns-core-modules/image-source";
+import { ViewBase, ImageSource } from '@nativescript/core';
 
 export class Cscreenshot extends Common {
     take(view: ViewBase, callback: any){
@@ -9,6 +8,6 @@ export class Cscreenshot extends Common {
         iosView.drawViewHierarchyInRectAfterScreenUpdates(CGRectMake(0, 0, iosView.frame.size.width, iosView.frame.size.height), true);
         var imageFromCurrentImageContext = UIGraphicsGetImageFromCurrentImageContext();
         UIGraphicsEndImageContext();
-        callback(<ImageSource>fromData(UIImagePNGRepresentation(imageFromCurrentImageContext)));
+        callback(ImageSource.fromDataSync(UIImagePNGRepresentation(imageFromCurrentImageContext)));
     }
 }

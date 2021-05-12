@@ -1,39 +1,59 @@
 {
-  "nativescript": {
-    "id": "org.nativescript.demoangular",
-    "tns-android": {
-      "version": "6.0.2"
-    },
-    "tns-ios": {
-      "version": "6.0.2"
-    }
-  },
+  "name": "org.nativescript.demoangular",
+  "main": "src/main.ts",
+  "version": "8.0.6",
+  "author": "NativeScript Team <oss@nativescript.org>",
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "App_Resources",
+    "hooks",
+    "src",
+    "tools",
+    "!tools/assets",
+    ".editorconfig",
+    "references.d.ts",
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "nativescript",
+    "mobile",
+    "angular",
+    "{N}",
+    "template"
+  ],
   "repository": "<fill-your-repository-here>",
+  "bugs": {
+    "url": "https://github.com/NativeScript/NativeScript/issues"
+  },
   "dependencies": {
-    "@angular/animations": "~8.2.0",
-    "@angular/common": "~8.2.0",
-    "@angular/compiler": "~8.2.0",
-    "@angular/core": "~8.2.0",
-    "@angular/forms": "~8.2.0",
-    "@angular/platform-browser": "~8.2.0",
-    "@angular/platform-browser-dynamic": "~8.2.0",
-    "@angular/router": "~8.2.0",
-    "nativescript-angular": "~8.2.0",
     "nativescript-cscreenshot": "file:../src",
-    "nativescript-theme-core": "~1.0.6",
-    "reflect-metadata": "~0.1.12",
-    "rxjs": "^6.4.0",
-    "tns-core-modules": "~6.0.0",
-    "zone.js": "~0.9.1"
+    "@angular/animations": "~11.2.7",
+    "@angular/common": "~11.2.7",
+    "@angular/compiler": "~11.2.7",
+    "@angular/core": "~11.2.7",
+    "@angular/forms": "~11.2.7",
+    "@angular/platform-browser": "~11.2.7",
+    "@angular/platform-browser-dynamic": "~11.2.7",
+    "@angular/router": "~11.2.7",
+    "@nativescript/angular": "~11.8.0",
+    "@nativescript/core": "~8.0.0",
+    "@nativescript/theme": "~3.0.1",
+    "reflect-metadata": "~0.1.13",
+    "rxjs": "~6.6.7",
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular/compiler-cli": "~8.2.0",
-    "@ngtools/webpack": "~8.2.0",
-    "nativescript-dev-webpack": "~1.1.0",
-    "typescript": "~3.5.3"
+    "@angular/compiler-cli": "~11.2.7",
+    "@nativescript/android": "8.0.0",
+    "@nativescript/types": "~8.0.0",
+    "@nativescript/webpack": "beta",
+    "@ngtools/webpack": "~11.2.6",
+    "typescript": "~4.0.0"
   },
-  "gitHead": "42f2a6a9c94eaf9c68d2a41e0daaa1a2544bc28f",
+  "private": "true",
   "readme": "NativeScript Application"
 }

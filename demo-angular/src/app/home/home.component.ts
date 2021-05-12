@@ -1,9 +1,8 @@
 import { Component, OnInit, ViewChild, ElementRef } from "@angular/core";
 
 import { Cscreenshot } from 'nativescript-cscreenshot';
-import { ImageSource } from "tns-core-modules/image-source";
-import { knownFolders, Folder } from "tns-core-modules/file-system";
-import * as fs from "tns-core-modules/file-system";
+import { ImageSource, knownFolders, Folder } from '@nativescript/core';
+import * as fs from '@nativescript/core/file-system';
 
 @Component({
     selector: "Home",
