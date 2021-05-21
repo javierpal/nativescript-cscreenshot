@@ -16,7 +16,8 @@ exec('tns --version', (err, stdout, stderr) => {
     6.0.0
     */
     // Extract the actual version (6.0.0) from it.
-    const tnsVersion = semver.major((stdout.match(/^(?:\d+\.){2}\d+.*?$/m) || [])[0]);
+    console.log(stdout);
+    const tnsVersion = semver.major("8.0.2");
 
     // execute 'tns plugin build' for {N} version > 4. This command builds .aar in platforms/android folder.
     if (tnsVersion >= 4) {
