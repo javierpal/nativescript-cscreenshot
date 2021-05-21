@@ -5,6 +5,8 @@ This plugin was created so you can take screenshots of views easily and then sto
 this plugin is based on enchev's NativeScript Screenshot [nativescript-screenshot](https://github.com/enchev/nativescript-screenshot)
 but updated for better stability and angular, vue and react compatibility (still testing vue and react)
 
+Now working in Nativescript 8
+
 IMPORTANT: For some reason I can't test the ios version because of this problem [Github](https://github.com/NativeScript/nativescript-cli/issues/4048), i will appreciate if you can and report this in the issues page.
 
 ## Installation
